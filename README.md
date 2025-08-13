@@ -1,10 +1,10 @@
-# 🎯 Candidate Recommendation Engine
+# 🎯 Candidate Job Matching Engine
 
 An intelligent web application that uses Google's Gemini AI to match job descriptions with candidate resumes, providing similarity scores and AI-generated analysis.
 
 ## 🚀 Live Demo
 
-**Streamlit Cloud Deployment**: [Your App URL will be here after deployment]
+**Streamlit Cloud Deployment**: [https://candidate-job-match-analysis-9vkeobxl6zdql5csr2psk2.streamlit.app/]
 
 ## ✨ Features
 
@@ -282,5 +282,6 @@ For issues or questions:
 - Verify your API key is correct
 - Ensure you haven't exceeded daily quota
 - Try using sample data for testing
+
 
 ---
